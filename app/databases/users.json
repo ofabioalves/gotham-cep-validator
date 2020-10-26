@@ -1,0 +1,22 @@
+[
+    {
+        "usuario": "fabio",
+        "senha": "senha",
+        "ativo": true
+    },
+    {
+        "usuario": "fabio2",
+        "senha": "senha",
+        "ativo": true
+    },
+    {
+        "usuario": "fabio3",
+        "senha": "senha",
+        "ativo": false
+    },
+    {
+        "usuario": "fabio4",
+        "senha": "senha",
+        "ativo": true
+    }
+]
